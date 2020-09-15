@@ -1,0 +1,16 @@
+beautifulsoup4==4.9.1
+bs4==0.0.1
+certifi==2020.6.20
+chardet==3.0.4
+colorclassifier==2.0.0
+-e git+https://github.com/cpackard/fundholdings@48d598233a8f9988109922967d4d4cde13c3918d#egg=holdings
+idna==2.10
+praw==7.1.0
+prawcore==1.5.0
+requests==2.24.0
+six==1.15.0
+soupsieve==2.0.1
+update-checker==0.18.0
+urllib3==1.25.10
+webcolors==1.3
+websocket-client==0.57.0
